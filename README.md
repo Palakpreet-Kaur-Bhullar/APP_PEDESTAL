@@ -2,7 +2,9 @@
   <img src="./banner.png" alt="Pedestal Banner" width="100%" />
 </p>
 
-<h1 align="center">🏛️ Pedestal</h1>
+<h1 align="center">🏛️ Pedestal- Financial Literacy </h1>
+
+<p> Available on Playstore:  https://play.google.com/store/apps/details?id=com.abhiman12.pedestal&hl=en_IN </p>
 
 <p align="center">
   <strong>Gen-Z Fintech Micro-Learning Platform — Reinforced Learning Stack</strong><br/>
